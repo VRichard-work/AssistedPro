@@ -1,0 +1,27 @@
+.sorki {
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-bottom: 18%;
+  }
+
+  .sorki p {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.5;
+    hyphens: auto;
+    line-height: 170%;
+    margin-bottom: 30px;
+  }
+  .szurke-hatter {
+  background-color: rgb(188, 199, 251);
+  padding: 2%;
+  margin-top: 7%;
+  margin-bottom: 2%;
+}
+

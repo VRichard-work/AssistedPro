@@ -1,0 +1,53 @@
+.container {
+  padding-top: 40px;
+  padding-bottom: 4%;
+  line-height: 200%;
+}
+.kepresz {
+  height: 65vh;
+  background-image: url("./reszveny4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center, center;
+  color: white;
+  margin-top: 7%;
+  margin-bottom: 7%;
+}
+
+
+.szurke-hatter {
+  background-color: rgb(188, 199, 251);
+  padding: 2%;
+  margin-top: 7%;
+  margin-bottom: 2%;
+}
+
+h1 {
+  font-size: 9em;
+  font-weight: 300;
+  padding: 5px;
+}
+
+.sorkiresz {
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+  text-align: justify;
+  text-justify: inter-word;
+  padding-bottom: 2%;
+  font-size: medium;
+}
+
+.sorki p {
+  margin: 0;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.5;
+  hyphens: auto;
+}
+
+h3{
+  padding-bottom: 15px;
+}

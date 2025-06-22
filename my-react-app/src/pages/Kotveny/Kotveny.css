@@ -1,0 +1,66 @@
+.container{
+    margin-left: 50%;
+    margin-right: 50%;
+  }
+
+.kepkot{
+    height: 200vh;
+    max-height: 900px;
+    background-image: url("./kotveny.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    color: white;
+}
+
+.kepkotfaj{
+  height: 200vh;
+  max-height: 900px;
+  background-image: url("./kotvenyfaj.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center, center;
+  color: white;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
+.sorkikot {
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-bottom: 5%;
+  }
+  
+  .sorkikot p {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.5;
+    hyphens: auto;
+    line-height: 170%;
+  }
+
+  .sorkikot1 {
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-bottom: 5%;
+  }
+  
+  .sorkikot1 p {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.5;
+    hyphens: auto;
+    line-height: 170%;
+  }
